@@ -1,3 +1,4 @@
+## 出典 https://www.britannica.com/topic/list-of-state-capitals-in-the-United-States-2119210
 'Alabama': 'Montgomery',
 'Alaska': 'Juneau',
 'Arizona': 'Phoenix',
