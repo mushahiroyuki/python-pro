@@ -2,7 +2,7 @@
 
 ![表紙](https://www.marlin-arms.com/jpn/arts/books/python-pro.png)
 
-[インプレス](https://book.impress.co.jp/books/)発行（Dane Hillard著、武舎広幸訳）の『[プロフェッショナルPython](https://www.marlin-arms.com/support/python-pro/)』の例題用リポジトリです。
+[インプレス](https://book.impress.co.jp/books/1120101043)発行（Dane Hillard著、武舎広幸訳）の『[プロフェッショナルPython](https://www.marlin-arms.com/support/python-pro/)』の例題用リポジトリです。
 
 <div>
 <ul>
